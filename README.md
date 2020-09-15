@@ -11,7 +11,7 @@ easyfinancial is a sub-prime personal and commercial lending subsidiary of goeas
 * As of December 31, 2019, 14,635,000 average outstanding publicly traded common shares on the Toronto Stock Exchange 
 * As of December 31, 2019, $41,712,000 in convertible debentures
 * $310 million in revolving credit
-* USD $550 million senior unsecured notes 
+* $550 million USD senior unsecured notes 
 
 # **Business Activities**
 
