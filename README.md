@@ -1,24 +1,19 @@
 ![easyfinancial logo](easyfinancial_logo.png)
 
-## **About**
+Mississauga, ON | Employees: 251-500 | TSX:GSY | https://www.easyfinancial.com/
 
-easyfinancial is a subsidiary of goeasy Ltd. founded by David Ingram in 2006. 
+# **Overview and Origin**
 
-## Overview and Origin
+easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd.. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers whom do not qualify for through traditional financing methods and save people from having to use costly payday loans. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending. Success in the business has fluorished through it's omnichannel business model which enables loanees to apply for financing at 256 branch locations, online, or through one of their retail and merchant point-of-sale patnerships. 
 
-* Company name: easyfinancial
+### **Sources of Funding for Operations:**
 
-* Parent company: goeasy Ltd.
+* As of December 31, 2019, 14,635,000 average outstanding publicly traded common shares on the Toronto Stock Exchange 
+* As of December 31, 2019, $41,712,000 in convertible debentures
+* $310 million in revolving credit
+* USD $550 million senior unsecured notes 
 
-* Parent company orginal name and year of incoroporation: RTO Enterprises, 1990
-
-* Year of inception for easyfinancial: 2006
-
-* Founder of easyfinancial: David Ingram
-
-* Funding sources for easyfinancial (as per goeasy Ltd. 2019 Annual Report): issued $141,656,000 in common shares, issued $41,712,000 in convertible debentures, issued $702,414,000 notes payable, and has a revolving credit facility which has a balance of $115,000,000 
-
-## Business Activities
+# **Business Activities**
 
 * Financial problem easy financial is trying yo solve: to provide credit to Canadians with fast and easy loans, especially in the case where consumers have been turned down by the major banks. End goal is to help people fix their credit scores and continue to service their everyday lifestyle.
 
