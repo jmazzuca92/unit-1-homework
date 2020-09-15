@@ -30,3 +30,7 @@ easyfinancial offers a variety of solutions:
 Of the listed solutions, easyfinancial's competitors do not offer the size of unsecured commercial financing and point-of-sale financing.  
 
 * Solution easyfinancial offers that their competitors do not offer: up to $15,000 in unsecured personal credit, $45,000 in secured personal credit, and $30,000 in unsecured business loans
+
+##### **References**
+###### *easyfinancial - Crunchbase Company Profile & Funding*. https://www.crunchbase.com/organization/easyfinancial
+ 
