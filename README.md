@@ -1,6 +1,6 @@
 ![easyfinancial logo](easyfinancial_logo.png)
 
-Mississauga, ON | Employees: 251-500 | TSX:GSY | https://www.easyfinancial.com/
+Mississauga, ON | Employees: 251-500 | TSX: GSY | https://www.easyfinancial.com/
 
 # **Overview and Origin**
 
