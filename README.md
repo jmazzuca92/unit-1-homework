@@ -22,11 +22,11 @@ As easyfinancial has grown, it's intial goal to extend credit to consumers whom 
 
 easyfinancial offers a variety of solutions:
 
-1) __*Up to*__ $15,000 unsecured personal credit
-2) __*Up to*__ $45,000 secured personal credit
-3) $5000 to $300,000 unsecured commercial credit
+1) __*Up to*__ $15,000 unsecured personal financing
+2) __*Up to*__ $45,000 secured personal financing
+3) $5000 to $300,000 unsecured commercial financing
 4) Point-of-sale consumer financing
 
-The biggest advantage 
+Of the listed solutions, easyfinancial's competitors do not offer the size of unsecured commercial financing and point-of-sale financing.  
 
 * Solution easyfinancial offers that their competitors do not offer: up to $15,000 in unsecured personal credit, $45,000 in secured personal credit, and $30,000 in unsecured business loans
