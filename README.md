@@ -4,7 +4,7 @@
 
 # **Overview and Origin**
 
-easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd.. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers whom do not qualify for through traditional methods and save people from having to use costly payday loans. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending. Success in the business has fluorished through it's omni-channel business model which enables borrowers to apply for financing at 260 branch locations, online, or through one of their retail and merchant point-of-sale patnerships. 
+easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers whom do not qualify for through traditional methods and save people from having to use costly payday loans. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending. Success in the business has flourished through its omni-channel business model which enables borrowers to apply for financing at 260 branch locations, online, or through one of their retail and merchant point-of-sale partnerships. 
 
 ### **Sources of Funding for Operations:**
 
@@ -18,7 +18,7 @@ easyfinancial is a sub-prime personal and commercial lending subsidiary of goeas
 
 # **Business Activities**
 
-As easyfinancial has grown, it's intial goal to extend credit to consumers whom do not qualify through traditional methods and hinder people from using expensive payday loans has advanced to help Canadians to improve their credit and eventually graduate to prime caliber loan solutions. easyfinancial's target customers are sub-prime Canadian borrowers, and small-to-mid-sized corporations. There were 9.4 million sub-prime borrowers and 1,201,356 small-to-mid-sized corporations in 2019. Since inception, easyfinacial has served more than 450,000 customers and issued over $3.9 billion in loans.
+As easyfinancial has grown, it's initial goal to extend credit to consumers whom do not qualify through traditional methods and hinder people from using expensive payday loans has advanced to help Canadians to improve their credit and eventually graduate to prime caliber loan solutions. easyfinancial's target customers are sub-prime Canadian borrowers, and small-to-mid-sized corporations. There were 9.4 million sub-prime borrowers and 1,201,356 small-to-mid-sized corporations in 2019. Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans.
 
 easyfinancial offers a variety of solutions:
 
