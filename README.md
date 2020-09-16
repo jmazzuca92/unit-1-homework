@@ -1,10 +1,10 @@
 ![easyfinancial logo](easyfinancial_logo.png)
 
-#### Mississauga, ON | Employees: 251-500 | TSX: GSY | https://www.easyfinancial.com/
+#### Mississauga, ON | Employees: 251-500<sup>2</sup> | TSX: GSY | https://www.easyfinancial.com/
 
 # **Overview and Origin**
 
-easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers whom do not qualify for through traditional methods and save people from having to use costly payday loans<sup>3</sup>. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending<sup>4</sup>. Success in the business has flourished through its omni-channel business model which enables borrowers to apply for financing at 260 branch locations, online, or through one of their retail and merchant point-of-sale partnerships<sup>6</sup>. 
+easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers whom do not qualify for through traditional methods and save people from having to use costly payday loans<sup>4</sup>. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending<sup>4</sup>. Success in the business has flourished through its omni-channel business model which enables borrowers to apply for financing at 260 branch locations, online, or through one of their retail and merchant point-of-sale partnerships<sup>6</sup>. 
 
 ### **Sources of Funding for Operations:**
 
@@ -23,7 +23,7 @@ As easyfinancial has grown, it's initial goal to extend credit to consumers whom
 easyfinancial offers a variety of solutions:
 
 1) $500 to $15,000 unsecured personal financing<sup>10</sup>
-2) $15,000 to $45,000 secured personal financing<sup>8</sup>
+2) $15,000 to $45,000 secured personal financing<sup>9</sup>
 3) $5000 to $300,000 unsecured commercial financing<sup>7</sup>
 4) Point-of-sale consumer financing<sup>4</sup>
 
