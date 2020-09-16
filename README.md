@@ -27,7 +27,7 @@ easyfinancial offers a variety of solutions:
 3) $5000 to $300,000 unsecured commercial financing<sup>6</sup>
 4) Point-of-sale consumer financing<sup>3</sup>
 
-Of the listed solutions, easyfinancial's competitors do not offer the size of unsecured commercial financing and point-of-sale financing.  
+Of the listed solutions, easyfinancial's competitors do not offer the size of unsecured commercial financing and point-of-sale financing. Test commit 
 
 * Solution easyfinancial offers that their competitors do not offer: up to $15,000 in unsecured personal credit, $45,000 in secured personal credit, and $30,000 in unsecured business loans
 
