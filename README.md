@@ -34,7 +34,7 @@ easyfinancial's success has been driven with the use of:
 * Big data
 * Customer relationship management (CRM) software
 * Cloud computing
-* Enterprise resource planning (ERP) softwareCohesively, these technologies 
+* Enterprise resource planning (ERP) software 
 
 Cohesively, these technologies are used to market and aquire new customers and to cross-sell solutions. Most importantly, the technologies are deployed to create analytical models for the credit adjutication and underwriting a quick, easy, and efficient process<sup>12</sup>. Once an application is submitted throughout easyfinancial's omni-channel business model, the consumer receives a decision within 30 minutes<sup>8</sup>.
 
