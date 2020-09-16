@@ -36,7 +36,7 @@ easyfinancial's success has been driven with the use of:
 * Cloud computing
 * Enterprise resource planning (ERP) software 
 
-Cohesively, these technologies are used to market and acquire new customers and to cross-sell solutions. Most importantly, the technologies are deployed to create analytical models for a quick, easy, and efficient credit adjudication and underwriting processes<sup>12</sup>. Once an application is submitted throughout easyfinancial's omni-channel business model, the consumer receives a decision within 30 minutes<sup>7</sup>.
+Cohesively, these technologies are used to market and acquire new customers and to cross-sell solutions. Most importantly, the technologies are deployed to create analytical models for a quick, easy, and efficient credit adjudication and underwriting processes<sup>12</sup>. Once an application is submitted through any of easyfinancial's omni-channel platforms, the consumer receives a decision within 30 minutes<sup>7</sup>.
 
 # **Landscape**
 
