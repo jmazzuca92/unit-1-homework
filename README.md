@@ -51,7 +51,7 @@ easyfinancial services the lending domain in the FinTech industry. Since 2010, o
 
 # **Results**
 
-Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>4</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>4</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations with no public comparable information available, but, it is not a publicly traded entity like easyfinancial. This is a testiment to the dominance in marketshare easyfinancial has been able to achieve.
+Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>4</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues ($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>4</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations with no public comparable information available, but it is not a publicly traded entity like easyfinancial. This is a testament to the dominance in market share easyfinancial has been able to achieve.
 
 # **Recommendations**
 
