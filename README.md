@@ -4,7 +4,7 @@
 
 # **Overview and Origin**
 
-easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers whom do not qualify for through traditional methods and save people from having to use costly payday loans<sup>4</sup>. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending<sup>4</sup>. Success in the business has flourished through its omni-channel business model which enables borrowers to apply for financing at 260 branch locations, online, or through one of their retail and merchant point-of-sale partnerships<sup>5</sup>. 
+easyfinancial is a sub-prime personal and commercial lending subsidiary of goeasy Ltd. This subsidiary was established in 2006 under the leadership of David Ingram. easyfinancial was created with the goal to extend credit to consumers who do not qualify for through traditional methods and save people from having to use costly payday loans<sup>4</sup>. Since inception, the company has grown drastically and progressed to becoming a solution for Canadians to amend their credit and eventually qualify for prime lending<sup>4</sup>. Success in the business has flourished through its omni-channel business model which enables borrowers to apply for financing at 260 branch locations, online, or through one of their retail and merchant point-of-sale partnerships<sup>5</sup>. 
 
 ### **Sources of Funding for Operations:**
 
@@ -18,7 +18,7 @@ easyfinancial is a sub-prime personal and commercial lending subsidiary of goeas
 
 # **Business Activities**
 
-As easyfinancial has grown, it's initial goal to extend credit to consumers whom do not qualify through traditional methods and hinder people from using expensive payday loans has advanced to help Canadians to improve their credit and eventually graduate to prime caliber loan solutions. easyfinancial's target customers are sub-prime Canadian borrowers, and small-to-mid-sized corporations. There were 9.4 million sub-prime borrowers<sup>4</sup> and 1,201,356 small-to-mid-sized corporations<sup>13</sup> in 2019.
+As easyfinancial has grown, it's initial goal to extend credit to consumers who do not qualify through traditional methods and hinder people from using expensive payday loans has advanced to help Canadians improve their credit and eventually graduate to prime caliber loan solutions. easyfinancial's target customers are sub-prime Canadian borrowers, and small-to-mid-sized corporations. There were 9.4 million sub-prime borrowers<sup>4</sup> and 1,201,356 small-to-mid-sized corporations<sup>13</sup> in 2019.
 
 easyfinancial offers a variety of solutions:
 
@@ -40,7 +40,7 @@ Cohesively, these technologies are used to market and acquire new customers and 
 
 # **Landscape**
 
-easyfinancial services the lending domain in the FinTech industry. Since 2010, online alternative lending has been growing rapidly<sup>11</sup>. FinTech lending solutions are not just popular among millennials and Gen Z consumers, 46% of the FinTech lending domain serviced consumers 40 years and older as per Q1 2017 through Q2 2018 study conducted by TransUnion<sup>1</sup>.
+easyfinancial services the lending domain in the FinTech industry. Since 2010, online alternative lending has been growing rapidly<sup>11</sup>. FinTech lending solutions are not just popular among millennials and Gen Z consumers - 46% of the FinTech lending domain serviced consumers 40 years and older as per Q1 2017 through Q2 2018 study conducted by TransUnion<sup>1</sup>.
 
 ### **Major Competitors:**
 
@@ -52,7 +52,7 @@ easyfinancial services the lending domain in the FinTech industry. Since 2010, o
 
 # **Results**
 
-Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>5</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues ($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>5</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations<sup>3</sup> with no public comparable information available, but it is not a publicly traded entity like easyfinancial. This is a testament to the dominance in market share easyfinancial has been able to achieve.
+Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>5</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues ($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>5</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations<sup>3</sup> with no comparable public information available, but it is not a publicly traded entity like easyfinancial. This is a testament to the dominance in market share easyfinancial has been able to achieve.
 
 ### **Awards:**
 
@@ -60,7 +60,7 @@ Since inception, easyfinancial has served more than 450,000 customers and issued
 
 # **Recommendations**
 
-I would recommend that easyfinancial offer personal and commercial credit cards with a rewards program to stimulate transaction volume. With current loans offered having interest rates between 19.99% - 29.99%<sup>5</sup> this is right in line with the average credit card retail interest of 19.99% and 22.99% for cash advances. This would be a good way to scale the size of their customer base. The larger customer base helps mitigate the risk of loan losses by the law of large numbers. This is an easier stepping-stone into the revolving credit market and if proven to be successful, can translate to being able to offer other revolving credit facilities such as a personal line of credit. This can also be a method of making their existing customer base stickier. For example, when a customer finishes paying off their personal loan, easyfinancial can then extend them a credit card as a reward for their accomplishment. All of these factors help to drive revenue growth and enables easyfinancial to collect more consumer data and further enhance their current products and processes. Above all, this product can seamlessly blend in with the company's existing technology. It also gives the company an entry point into the near-field communication and chip-and-pin technology to make their point-of-sale line of business more robust.
+I would recommend that easyfinancial offer personal and commercial credit cards with a rewards program to stimulate transaction volume. With current loans offered having interest rates between 19.99% - 29.99%<sup>5</sup>, this is right in line with the average credit card retail interest of 19.99% and 22.99% for cash advances. This would be a good way to scale the size of their customer base. The larger customer base helps mitigate the risk of loan losses by the law of large numbers. This is an easier stepping-stone into the revolving credit market and if proven to be successful, can translate to being able to offer other revolving credit facilities such as a personal line of credit. This can also be a method to retain customers. For example, when a customer finishes paying off their personal loan, easyfinancial can then extend them a credit card as a reward for their accomplishment. All of these factors help to drive revenue growth and enables easyfinancial to collect more consumer data and further enhance their current products and processes. Above all, this product can seamlessly blend in with the company's existing technology. It also gives the company an entry point into the near-field communication and chip-and-pin technology to make their point-of-sale line of business more robust.
 
 ### **References**
 ###### <sup>1</sup> Almazora, L. (2020, February 25). *Fintech's footprint growing in Canada's lending landscape. Wealth Professional*. https://www.wealthprofessional.ca/news/industry-news/fintechs-footprint-growing-in-canadas-lending-landscape/326639. 
