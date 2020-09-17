@@ -54,6 +54,10 @@ easyfinancial services the lending domain in the FinTech industry. Since 2010, o
 
 Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>5</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues ($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>5</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations<sup>3</sup> with no public comparable information available, but it is not a publicly traded entity like easyfinancial. This is a testament to the dominance in market share easyfinancial has been able to achieve.
 
+### **Awards:**
+
+![goeasy awards](GSY_Awards.png)
+
 # **Recommendations**
 
 I would recommend that easyfinancial offer personal and commercial credit cards with a rewards program to stimulate transaction volume. With current loans offered having interest rates between 19.99% - 29.99%<sup>5</sup> this is right in line with the average credit card retail interest of 19.99% and 22.99% for cash advances. This would be a good way to scale the size of their customer base. The larger customer base helps mitigate the risk of loan losses by the law of large numbers. This is an easier stepping-stone into the revolving credit market and if proven to be successful, can translate to being able to offer other revolving credit facilities such as a personal line of credit. This can also be a method of making their existing customer base stickier. For example, when a customer finishes paying off their personal loan, easyfinancial can then extend them a credit card as a reward for their accomplishment. All of these factors help to drive revenue growth and enables easyfinancial to collect more consumer data and further enhance their current products and processes. Above all, this product can seamlessly blend in with the company's existing technology. It also gives the company an entry point into the near-field communication and chip-and-pin technology to make their point-of-sale line of business more robust.
