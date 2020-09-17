@@ -43,6 +43,7 @@ Cohesively, these technologies are used to market and acquire new customers and 
 easyfinancial services the lending domain in the FinTech industry. Since 2010, online alternative lending has been growing rapidly<sup>11</sup>. FinTech lending solutions are not just popular among millennials and Gen Z consumers, 46% of the FinTech lending domain serviced consumers 40 years and older as per Q1 2017 through Q2 2018 study conducted by TransUnion<sup>1</sup>.
 
 ### **Major Competitors:**
+
 * Money Mart
 * CashMoney
 * Ca$h 4 You
@@ -51,16 +52,16 @@ easyfinancial services the lending domain in the FinTech industry. Since 2010, o
 
 # **Results**
 
-Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>4</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues ($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>4</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations with no public comparable information available, but it is not a publicly traded entity like easyfinancial. This is a testament to the dominance in market share easyfinancial has been able to achieve.
+Since inception, easyfinancial has served more than 450,000 customers and issued over $3.9 billion in loans<sup>5</sup>. Core metrics to measure the success of the business are size of the loan portfolio ($1.1 billion, fiscal 2019), revenues ($470 million, fiscal 2019), assets ($1.1 million, fiscal 2019) and the number of active customers (186,000, fiscal 2019)<sup>5</sup>. Of all the major competitors, Fairstone is the largest with over 240 branch locations<sup>3</sup> with no public comparable information available, but it is not a publicly traded entity like easyfinancial. This is a testament to the dominance in market share easyfinancial has been able to achieve.
 
 # **Recommendations**
 
-
+I would recommend that easyfinancial offer personal and commercial credit cards with a rewards program to stimulate transaction volume. With current loans offered having interest rates between 19.99% - 29.99%<sup>5</sup> this is right in line with the average credit card retail interest of 19.99% and 22.99% for cash advances. This would be a good way to scale the size of their customer base. The larger customer base helps mitigate the risk of loan losses by the law of large numbers. This is an easier stepping stone into the revolving credit market and if proven to be successful, can translate to being able to offer other revolving credit facilities such as a personal line of credit. This can also be a method of making their existing customer base more sticky. For example, when a customer finishes paying off their personal loan, easyfinancial can then extend them a credit card as a reward for their accomplishment. All of these factors help to drive revenue growth and enables easyfinancial to collect more consumer data and further enhance their current products and processes. Above all, this product can seamlessly blends in with the company's exisiting technology. It also gives the company an entry point into the near-field communication and chip-and-pin technology to make their point-of-sale line of business more robust.
 
 ### **References**
 ###### <sup>1</sup> Almazora, L. (2020, February 25). *Fintech's footprint growing in Canada's lending landscape. Wealth Professional*. https://www.wealthprofessional.ca/news/industry-news/fintechs-footprint-growing-in-canadas-lending-landscape/326639. 
-###### <sup>2</sup> *easyfinancial - Crunchbase Company Profile & Funding*. https://www.crunchbase.com/organization/easyfinancial
-###### <sup>3</sup> Fairstone Financial Inc. (2020). Leading alternative Canadian lender of personal loans. About Fairstone - Responsible Canadian Lender of Loan Solutions. https://www.fairstone.ca/canadianlender. 
+###### <sup>2</sup> *easyfinancial - Crunchbase Company Profile & Funding*. Crunchbase. (2020). https://www.crunchbase.com/organization/easyfinancial
+###### <sup>3</sup> Fairstone Financial Inc. (2020). *Leading alternative Canadian lender of personal loans*. About Fairstone - Responsible Canadian Lender of Loan Solutions. https://www.fairstone.ca/canadianlender. 
 ###### <sup>4</sup> goeasy Ltd. (2020). (rep.). *2019 Annual Report*. Retrieved from https://investors.goeasy.com/static-files/39e673eb-b24d-4abc-9978-53f8d81d927e 
 ###### <sup>5</sup> goeasy Ltd. (2020). *Corporate Profile*. goeasy Ltd. https://investors.goeasy.com/corporate-profile
 ###### <sup>6</sup> goeasy Ltd. (2020). Easyfinancial small business loans. https://easyfinancial.merchantgrowth.com/
@@ -68,6 +69,6 @@ Since inception, easyfinancial has served more than 450,000 customers and issued
 ###### <sup>8</sup> goeasy Ltd. (2020). Management’s Discussion and Analysis of Financial Condition and Results of Operations. Mississauga; goeasy Ltd. 
 ###### <sup>9</sup> goeasy Ltd. (2020). *Secured Personal Loans*. easyfinancial. https://www.easyfinancial.com/secured-personal-loans
 ###### <sup>10</sup> goeasy Ltd. (2020). *Unsecured Personal Loans*. easyfinancial. https://www.easyfinancial.com/unsecured-personal-loans
-###### <sup>11</sup> Jagtiani, J. & Lemieux, C. (2018). Do fintech lenders penetrate areas that are underserved by traditional banks? Journal of Economics and Business, 100, 43–54. https://doi.org/10.1016/j.jeconbus.2018.03.001 
+###### <sup>11</sup> Jagtiani, J. & Lemieux, C. (2018). Do fintech lenders penetrate areas that are underserved by traditional banks? *Journal of Economics and Business, 100*, 43–54. https://doi.org/10.1016/j.jeconbus.2018.03.001 
 ###### <sup>12</sup> Sjöstrand, E. (2018, September 28). PDF. London; Ivey Business School.
-###### <sup>13</sup> Small Business Tourism & Marketplace Services. (2019, December 10). Key Small Business Statistics - November 2019. SME research and statistics. https://www.ic.gc.ca/eic/site/061.nsf/eng/h_03114.html
+###### <sup>13</sup> Small Business Tourism & Marketplace Services. (2019, December 10). *Key Small Business Statistics - November 2019*. SME research and statistics. https://www.ic.gc.ca/eic/site/061.nsf/eng/h_03114.html
